@@ -1,0 +1,10 @@
+exec_implement
+inp
+new.txt
+output
+shell
+shell.cpp
+test_inp
+test_inp.cpp
+test_out
+test_out.cpp
